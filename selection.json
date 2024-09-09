@@ -1,0 +1,157 @@
+{
+    "info": {
+        "name": "Volumio Selection",
+        "albumart": "https://radio-directory.firebaseapp.com/volumio/src/images/volumio-selection.png"
+    },
+    "radios": [
+        {
+            "title": "Smooth Radio",
+            "albumartUri": "https://cdn.onlineradiobox.com/img/l/4/964.v13.png",
+            "uri": "https://media-ssl.musicradio.com/SmoothLondonMP3"
+        },
+        {
+            "title": "Capital FM",
+            "albumartUri": "https://cdn.onlineradiobox.com/img/l/8/1018.v21.png",
+            "uri": "https://media-ssl.musicradio.com/Capital"
+        },        
+        {
+            "title": "Heart FM",
+            "albumartUri": "http://cdn.onlineradiobox.com/img/l/7/1047.v20.png",
+            "uri": "https://media-ssl.musicradio.com/HeartUK"
+        },        
+        {
+            "title": "LBC",
+            "albumartUri": "http://cdn.onlineradiobox.com/img/l/4/994.v8.png",
+            "uri": "https://media-ssl.musicradio.com/LBCLondon"
+        },        
+        {
+            "title": "Dance UK Radio",
+            "albumartUri": "http://cdn.onlineradiobox.com/img/l/7/43387.v9.png",
+            "uri": "http://dancestream.danceradiouk.com/;"
+        },              
+        {
+            "title": "Classic Rock Florida",
+            "albumartUri": "http://cdn.onlineradiobox.com/img/l/2/26822.v8.png",
+            "uri": "http://ais-edge105-live365-dal02.cdnstream.com/a06375"
+        },                              
+        {
+            "title": "98.1 KISS*FM",
+            "albumartUri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK5dq366malnqK0YFXNmmtlIbLptf1Z5IeP0A6LLU&usqp=CAE&s",
+            "uri": "http://a1.asurahosting.com:8840/radio.mp3"
+        },        
+        {
+            "title": "BBC World Service",
+	    "albumartUri": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F5F6/production/_96566926_bbc_wn_rgb.png",
+            "uri": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
+        },
+        {
+            "title": "ArtSound FM 92.7",   
+            "uri": "http://119.15.96.188/stream2.mp3"
+        },
+        {
+            "title": "Classic FM",
+            "uri": "http://vis.media-ice.musicradio.com/ClassicFMMP3"
+        },
+        {
+            "title": "CDNX 1 - Classic & New Indie Alt",
+            "uri": "http://svr1.msmn.co:8136"
+        },
+        {
+            "title": "CDNX 2 - New & Upfront Indie Alt",
+            "uri": "http://msmn.co:8118"
+        },
+        {
+            "title": "EuropaRadioJazz - 88.3 Smooth Jazz HD",
+            "uri": "http://onair.europaradiojazz.org/radio/8000/sd"
+        },
+        {
+            "title": "France Musique Classique Plus",
+            "uri": "http://direct.francemusique.fr/live/francemusiqueclassiqueplus-hifi.mp3"
+        },
+        {
+            "title": "France Musique La Contemporaine",
+            "uri": "http://direct.francemusique.fr/live/francemusiquelacontemporaine-hifi.mp3"
+        },
+        {
+            "title": "France Musique La Jazz",
+            "uri": "http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3"
+        },
+        {
+            "title": "Ibiza Sonica",
+            "uri": "http://95.211.3.65:8136/listen.pls?sid=1"
+        },
+        {
+            "title": "KEXP 90.3 FM Seattle",
+            "uri": "http://live-aacplus-64.kexp.org/kexp64.aac"
+        },
+        {
+            "title": "Mix 106",
+            "uri": "http://stream13.shoutcastsolutions.com/proxy/gbeaum00?mp=/stream"
+        },
+        {
+            "title": "Naim Classical (FLAC)",
+            "uri": "http://mscp3.live-streams.nl:8250/class-flac.flac"
+        },
+        {
+            "title": "Naim Jazz (FLAC)",
+            "uri": "http://mscp3.live-streams.nl:8340/jazz-flac.flac"
+        },
+        {
+            "title": "Naim Radio (FLAC)",
+            "uri": "http://mscp3.live-streams.nl:8360/flac.flac"
+        },
+        {
+            "title": "NTS Live International",
+            "uri": "http://stream-relay-geo.ntslive.net/stream2"
+        },
+        {
+            "title": "Radio 24 Il Sole 24 Ore",
+            "uri": "http://shoutcast.radio24.it:8000/"
+        },
+        {
+            "title": "RadioJAZZ.FM",
+            "uri": "https://radiojazz.out.airtime.pro/radiojazz_a"
+        },
+        {
+            "title": "Radio Paradise",
+            "uri": "http://stream-dc1.radioparadise.com/rp_192m.ogg"
+        },
+        {
+            "title": "Radio Paradise (FLAC+)",
+            "uri": "http://stream.radioparadise.com/flacm"
+        },
+        {
+            "title": "Radio Paradise Mellow (FLAC+)",
+            "uri": "http://stream.radioparadise.com/mellow-flacm"
+        },
+        {
+            "title": "Radio Paradise Rock (FLAC+)",
+            "uri": "http://stream.radioparadise.com/rock-flacm"
+        },
+        {
+            "title": "Radio Paradise World (FLAC+)",
+            "uri": "http://stream.radioparadise.com/world-etc-flacm"
+        },
+        {
+            "title": "Radio Reload",
+            "uri": "http://onair15.xdevel.com:7012/1"
+        },
+        {
+            "title": "Radio Swiss Classic",
+            "uri": "http://stream.srg-ssr.ch/m/rsc_de/aacp_96"
+        },
+        {
+            "title": "Radio Swiss Jazz",
+            "uri": "http://stream.srg-ssr.ch/m/rsj/aacp_96"
+        },
+        {
+            "title": "Radio X London",
+            "uri": "http://media-sov.musicradio.com:80/RadioXLondonMP3"
+        },
+        {
+            "title": "San Diego Jazz 88.3",
+            "uri": "http://listen.jazz88.org/ksds.mp3"
+        }
+    ]
+}
+
