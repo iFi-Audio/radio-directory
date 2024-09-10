@@ -151,6 +151,210 @@
         {
             "title": "San Diego Jazz 88.3",
             "uri": "http://listen.jazz88.org/ksds.mp3"
+        },
+        {
+            "title": "FIP1",
+            "uri": "http://direct.fipradio.fr/live/fip-midfi.mp3"
+        },
+        {
+            "title": "FIP2",
+            "uri": "http://icecast.radiofrance.fr/fip-midfi.mp3"
+        },
+        {
+            "title": "FIP Rock",
+            "uri": "http://direct.fipradio.fr/live/fip-webradio1.mp3"
+        },
+        {
+            "title": "FIP Jazz",
+            "uri": "http://direct.fipradio.fr/live/fip-webradio2.mp3"
+        },
+        {
+            "title": "FIP Groove",
+            "uri": "http://direct.fipradio.fr/live/fip-webradio3.mp3"
+        },
+        {
+            "title": "FIP Monde",
+            "uri": "http://direct.fipradio.fr/live/fip-webradio4.mp3"
+        },
+        {
+            "title": "FIP Tout FIP",
+            "uri": "http://direct.fipradio.fr/live/fip-webradio5.mp3"
+        },
+        {
+            "title": "FIP Disquaire",
+            "uri": "http://direct.fipradio.fr/live/fip-webradio6.mp3"
+        },
+        {
+            "title": "Radio Perfecto",
+            "uri": "http://radioperfecto.net-radio.fr/perfecto.mp3"
+        },
+        {
+            "title": "France Culture",
+            "uri": "http://direct.franceculture.fr/live/franceculture-midfi.mp3"
+        },
+        {
+            "title": "France Inter",
+            "uri": "http://direct.franceinter.fr/live/franceinter-midfi.mp3"
+        },
+        {
+            "title": "France Musique",
+            "uri": "http://direct.francemusique.fr/live/francemusique-midfi.mp3"
+        },
+        {
+            "title": "France Info",
+            "uri": "https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8"
+        },
+        {
+            "title": "SomaFM-GrooveSalad",
+            "uri": "http://198.24.44.211/groovesalad-128-aac"
+        },
+        {
+            "title": "BBC-Radio1",
+            "uri": "https://raw.githubusercontent.com/mikepierce/internet-radio-streams/main/BBC-Radio1.m3u"
+        },
+        {
+            "title": "BBC-Radio2",
+            "uri": "https://raw.githubusercontent.com/mikepierce/internet-radio-streams/main/BBC-Radio2.m3u"
+        },
+        {
+            "title": "BBC-Radio6",
+            "uri": "https://raw.githubusercontent.com/mikepierce/internet-radio-streams/main/BBC-Radio6.m3u"
+        },
+        {
+            "title": "BBC-WorldService",
+            "uri": "https://raw.githubusercontent.com/mikepierce/internet-radio-streams/main/BBC-WorldService.m3u"
+        },
+        {
+            "title": "RadioParadise-Global",
+            "uri": "https://raw.githubusercontent.com/mikepierce/internet-radio-streams/main/RadioParadise-Global.m3u"
+        },
+        {
+            "title": "RadioParadise-MainMix",
+            "uri": "https://raw.githubusercontent.com/mikepierce/internet-radio-streams/main/RadioParadise-MainMix.m3u"
+        },
+        {
+            "title": "NTS1",
+            "uri": "https://raw.githubusercontent.com/mikepierce/internet-radio-streams/main/NTS1.m3u"
+        },
+        {
+            "title": "NTS2",
+            "uri": "https://raw.githubusercontent.com/mikepierce/internet-radio-streams/main/NTS2.m3u"
+        },
+        {
+            "title": "",
+            "uri": ""
+        },
+        {
+            "title": "Nectarine",
+            "uri": "https://raw.githubusercontent.com/mikepierce/internet-radio-streams/main/Nectarine.m3u"
+        },
+        {
+            "title": "Classic Vinyl HD",
+            "uri": "https://testbench.walmradio.com/SAM-CLASSIC/web/generate_m3u_opus.php"
+        },
+        {
+            "title": "101 Smooth Jazz",
+            "uri": "http://www.101smoothjazz.com/101-smoothjazz.m3u"
+        },
+        {
+            "title": "Super Radyo DZBB",
+            "uri": "http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106"
+        },
+        {
+            "title": "Dance Wave",
+            "uri": "https://dancewave.online/dance.mp3"
+        },
+        {
+            "title": "REYFM",
+            "uri": "https://listen.reyfm.de/original_192kbps.mp3"
+        },
+        {
+            "title": "Adroit Jazz Underground",
+            "uri": "https://icecast.walmradio.com:8443/jazz"
+        },
+        {
+            "title": "Walm Old Time",
+            "uri": "https://icecast.walmradio.com:8443/otr"
+        },
+        {
+            "title": "Deep House Lounge",
+            "uri": "http://198.15.94.34:8006/stream"
+        },
+        {
+            "title": "Jazz Radio Blues",
+            "uri": "http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3"
+        },
+        {
+            "title": "Linn Classic",
+            "uri": "http://radio.linn.co.uk:8004/autodj"
+        },
+        {
+            "title": "Linn Jazz",
+            "uri": "http://radio.linn.co.uk:8000/autodj"
+        },
+        {
+            "title": "Linn Radio",
+            "uri": "http://radio.linn.co.uk:8003/autodj"
+        },
+        {
+            "title": "RP ROCK",
+            "uri": "http://stream.radioparadise.com/rock-flacm"
+        },
+        {
+            "title": "NEW CLEAR RADIO",
+            "uri": "http://live.ncradio.fm/320"
+        },
+        {
+            "title": "NME 1",
+            "uri": "http://listen-nme.sharp-stream.com/nme1high.mp3"
+        },
+        {
+            "title": "NME 2",
+            "uri": "http://listen-nme.sharp-stream.com/nme2high.mp3"
+        },
+        {
+            "title": "San Francisco 70s",
+            "uri": "https://a1.asurahosting.com:10990/radio.mp3"
+        },
+        {
+            "title": "timewarp ireland",
+            "uri": "http://141.94.205.245:8052/stream"
+        },
+        {
+            "title": "JB Radio2",
+            "uri": "https://maggie.torontocast.com:8076/flac"
+        },
+        {
+            "title": "Naim Radio Flac",
+            "uri": "http://mscp3.live-streams.nl:8360/flac.flac"
+        },
+        {
+            "title": "Superstereo 1",
+            "uri": "http://icecast.centaury.cl:7570/SuperStereoHiRes1"
+        },
+        {
+            "title": "Suoerstereo 2",
+            "uri": "http://icecast.centaury.cl:7570/SuperStereoHiRes2"
+        },
+        {
+            "title": "Superstereo 3",
+            "uri": "http://icecast.centaury.cl:7570/SuperStereoHiRes3"
+        },
+        {
+            "title": "Superstereo 4",
+            "uri": "http://icecast.centaury.cl:7570/SuperStereoHiRes4"
+        },
+        {
+            "title": "SuperStereo 5",
+            "uri": "http://icecast.centaury.cl:7570/SuperStereoHiRes5"
+        },
+        {
+            "title": "SuperStereo 6",
+            "uri": "http://icecast.centaury.cl:7570/SuperStereoHiRes6"
+        },
+        {
+            "title": "SuperStereo 7",
+            "uri": "http://icecast.centaury.cl:7560/SuperStereoNoData7"
         }
     ]
 }
