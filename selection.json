@@ -35,18 +35,9 @@
             "uri": "http://ais-edge105-live365-dal02.cdnstream.com/a06375"
         },                              
         {
-            "title": "98.1 KISS*FM",
-            "albumartUri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK5dq366malnqK0YFXNmmtlIbLptf1Z5IeP0A6LLU&usqp=CAE&s",
-            "uri": "http://a1.asurahosting.com:8840/radio.mp3"
-        },        
-        {
             "title": "BBC World Service",
 	    "albumartUri": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F5F6/production/_96566926_bbc_wn_rgb.png",
             "uri": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
-        },
-        {
-            "title": "ArtSound FM 92.7",   
-            "uri": "http://119.15.96.188/stream2.mp3"
         },
         {
             "title": "Classic FM",
@@ -77,10 +68,6 @@
             "uri": "http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3"
         },
         {
-            "title": "Ibiza Sonica",
-            "uri": "http://95.211.3.65:8136/listen.pls?sid=1"
-        },
-        {
             "title": "KEXP 90.3 FM Seattle",
             "uri": "http://live-aacplus-64.kexp.org/kexp64.aac"
         },
@@ -103,10 +90,6 @@
         {
             "title": "NTS Live International",
             "uri": "http://stream-relay-geo.ntslive.net/stream2"
-        },
-        {
-            "title": "Radio 24 Il Sole 24 Ore",
-            "uri": "http://shoutcast.radio24.it:8000/"
         },
         {
             "title": "RadioJAZZ.FM",
@@ -185,10 +168,6 @@
             "uri": "http://direct.fipradio.fr/live/fip-webradio6.mp3"
         },
         {
-            "title": "Radio Perfecto",
-            "uri": "http://radioperfecto.net-radio.fr/perfecto.mp3"
-        },
-        {
             "title": "France Culture",
             "uri": "http://direct.franceculture.fr/live/franceculture-midfi.mp3"
         },
@@ -201,40 +180,8 @@
             "uri": "http://direct.francemusique.fr/live/francemusique-midfi.mp3"
         },
         {
-            "title": "France Info",
-            "uri": "https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8"
-        },
-        {
             "title": "SomaFM-GrooveSalad",
             "uri": "http://198.24.44.211/groovesalad-128-aac"
-        },
-        {
-            "title": "BBC-Radio1",
-            "uri": "https://raw.githubusercontent.com/mikepierce/internet-radio-streams/main/BBC-Radio1.m3u"
-        },
-        {
-            "title": "BBC-Radio2",
-            "uri": "https://raw.githubusercontent.com/mikepierce/internet-radio-streams/main/BBC-Radio2.m3u"
-        },
-        {
-            "title": "BBC-Radio6",
-            "uri": "https://raw.githubusercontent.com/mikepierce/internet-radio-streams/main/BBC-Radio6.m3u"
-        },
-        {
-            "title": "BBC-WorldService",
-            "uri": "https://raw.githubusercontent.com/mikepierce/internet-radio-streams/main/BBC-WorldService.m3u"
-        },
-        {
-            "title": "RadioParadise-Global",
-            "uri": "https://raw.githubusercontent.com/mikepierce/internet-radio-streams/main/RadioParadise-Global.m3u"
-        },
-        {
-            "title": "RadioParadise-MainMix",
-            "uri": "https://raw.githubusercontent.com/mikepierce/internet-radio-streams/main/RadioParadise-MainMix.m3u"
-        },
-        {
-            "title": "NTS1",
-            "uri": "https://raw.githubusercontent.com/mikepierce/internet-radio-streams/main/NTS1.m3u"
         },
         {
             "title": "NTS2",
@@ -243,18 +190,6 @@
         {
             "title": "Nectarine",
             "uri": "https://raw.githubusercontent.com/mikepierce/internet-radio-streams/main/Nectarine.m3u"
-        },
-        {
-            "title": "Classic Vinyl HD",
-            "uri": "https://testbench.walmradio.com/SAM-CLASSIC/web/generate_m3u_opus.php"
-        },
-        {
-            "title": "101 Smooth Jazz",
-            "uri": "http://www.101smoothjazz.com/101-smoothjazz.m3u"
-        },
-        {
-            "title": "Super Radyo DZBB",
-            "uri": "http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106"
         },
         {
             "title": "Dance Wave",
@@ -354,4 +289,3 @@
         }
     ]
 }
-
