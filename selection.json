@@ -268,10 +268,6 @@
             "uri": "http://icecast.centaury.cl:7570/SuperStereoHiRes2"
         },
         {
-            "title": "Superstereo 3",
-            "uri": "http://icecast.centaury.cl:7570/SuperStereoHiRes3"
-        },
-        {
             "title": "Superstereo 4",
             "uri": "http://icecast.centaury.cl:7570/SuperStereoHiRes4"
         },
