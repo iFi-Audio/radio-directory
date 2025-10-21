@@ -48,14 +48,6 @@
             "uri": "http://svr1.msmn.co:8136"
         },
         {
-            "title": "CDNX 2 - New & Upfront Indie Alt",
-            "uri": "http://msmn.co:8118"
-        },
-        {
-            "title": "EuropaRadioJazz - 88.3 Smooth Jazz HD",
-            "uri": "http://onair.europaradiojazz.org/radio/8000/sd"
-        },
-        {
             "title": "France Musique Classique Plus",
             "uri": "http://direct.francemusique.fr/live/francemusiqueclassiqueplus-hifi.mp3"
         },
@@ -90,10 +82,6 @@
         {
             "title": "NTS Live International",
             "uri": "http://stream-relay-geo.ntslive.net/stream2"
-        },
-        {
-            "title": "RadioJAZZ.FM",
-            "uri": "https://radiojazz.out.airtime.pro/radiojazz_a"
         },
         {
             "title": "Radio Paradise",
@@ -244,44 +232,12 @@
             "uri": "http://listen-nme.sharp-stream.com/nme2high.mp3"
         },
         {
-            "title": "San Francisco 70s",
-            "uri": "https://a1.asurahosting.com:10990/radio.mp3"
-        },
-        {
             "title": "timewarp ireland",
             "uri": "http://141.94.205.245:8052/stream"
         },
         {
-            "title": "JB Radio2",
-            "uri": "https://maggie.torontocast.com:8076/flac"
-        },
-        {
             "title": "Naim Radio Flac",
             "uri": "http://mscp3.live-streams.nl:8360/flac.flac"
-        },
-        {
-            "title": "Superstereo 1",
-            "uri": "http://icecast.centaury.cl:7570/SuperStereoHiRes1"
-        },
-        {
-            "title": "Suoerstereo 2",
-            "uri": "http://icecast.centaury.cl:7570/SuperStereoHiRes2"
-        },
-        {
-            "title": "Superstereo 4",
-            "uri": "http://icecast.centaury.cl:7570/SuperStereoHiRes4"
-        },
-        {
-            "title": "SuperStereo 5",
-            "uri": "http://icecast.centaury.cl:7570/SuperStereoHiRes5"
-        },
-        {
-            "title": "SuperStereo 6",
-            "uri": "http://icecast.centaury.cl:7570/SuperStereoHiRes6"
-        },
-        {
-            "title": "SuperStereo 7",
-            "uri": "http://icecast.centaury.cl:7560/SuperStereoNoData7"
         }
     ]
 }
