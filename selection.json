@@ -1,7 +1,7 @@
 {
     "info": {
-        "name": "Volumio Selection",
-        "albumart": "https://radio-directory.firebaseapp.com/volumio/src/images/volumio-selection.png"
+        "name": "iFi Selection",
+        "albumart": ""
     },
     "radios": [
         {
